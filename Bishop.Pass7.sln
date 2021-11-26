@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Bishop.Pass7", ".", "{0077ABE4-F27C-4137-A708-4F642F659896}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_17022"
+		Debug.AspNetCompiler.PhysicalPath = "..\Bishop.Pass7\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_17022\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_17022"
+		Release.AspNetCompiler.PhysicalPath = "..\Bishop.Pass7\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_17022\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "17022"
+		SlnRelativePath = "..\Bishop.Pass7\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0077ABE4-F27C-4137-A708-4F642F659896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0077ABE4-F27C-4137-A708-4F642F659896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E1EE48-A7F7-49D2-A33C-DE8C2B788DE1}
+	EndGlobalSection
+EndGlobal
